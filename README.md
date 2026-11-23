@@ -55,7 +55,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on hotel book
 - Analytical Thinking
 
 ## Project Outcome
-Performed exploratory analysis of hotel booking data to investigate booking trends, customer behavior, cancellations, and seasonal patterns through Python-based data analysis and visualization.
+Performed exploratory analysis of hotel booking data to investigate booking trends, customer behavior, cancellations and seasonal patterns through Python-based data analysis and visualization.
 
 ## Conclusion
-This project demonstrates practical Python EDA skills applied to the hospitality domain, including data preparation, trend analysis, and visualization.
+This project demonstrates practical Python EDA skills applied to the hospitality domain, including data preparation, trend analysis and visualization.
